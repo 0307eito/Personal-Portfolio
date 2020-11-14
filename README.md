@@ -1,4 +1,4 @@
-# 實測網頁自動化程式時的樣子
+# 實測時的模樣
 日経テレコン21(日經新聞資料庫) http://t21.nikkei.co.jp/g3/CMN0F11.do
 ![end](https://user-images.githubusercontent.com/66252302/99149659-697d4a00-26ca-11eb-8a67-3059431a7fb3.gif)
 
