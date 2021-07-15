@@ -4,8 +4,9 @@
 
 美國 OFAC 制裁名單 https://sanctionssearch.ofac.treas.gov/
 ![ezgif com-gif-maker-_2_](https://user-images.githubusercontent.com/66252302/99150038-d265c180-26cc-11eb-9fda-78b3c9aa0dcb.gif)
+
 <br><br/>
-<br><br/>
+
 # 實作報告
 ![【實作報告】Selenium網頁自動化程式-1](https://user-images.githubusercontent.com/66252302/125805538-ae61426b-0b78-491b-8ebe-fe72c0bb0209.png)
 ![【實作報告】Selenium網頁自動化程式-2](https://user-images.githubusercontent.com/66252302/125805539-544f82a3-33aa-47af-b3d7-8f8ef2718812.png)
